@@ -1,5 +1,4 @@
 # ApkExpansion
-----------
 
 ReadyBake code to implement APK file expansion in app.
 
@@ -24,8 +23,8 @@ Main expansion file extension under zip obb
 Main expansion file name under zip obb
 
 ### Screenshots
-<img src="reference images/screenshots/file_download.png" width="320" height="480" >
-<img src="reference images/screenshots/file_read.png" width="320" height="480" vspace="10">
+<img src="reference images/screenshots/file_download.png" width="480" height="800" >
+<img src="reference images/screenshots/file_read.png" width="480" height="800" vspace="10">
 
 ### Library dependency Structure
 <img src="reference images/dependencies.jpg" >
