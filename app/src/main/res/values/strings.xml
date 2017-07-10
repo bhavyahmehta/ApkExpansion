@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ApkExpansion</string>
+    <string name="text_verifying_download">Verifying Download</string>
+    <string name="text_validation_complete">XAPK File Validation Complete.</string>
+    <string name="text_validation_failed">XAPK File Validation Failed.</string>
+    <string name="text_reading_failed">XAPK File Reading Failed.</string>
+    <string name="text_reading_start">XAPK File Reading Start</string>
+    <string name="text_reading_complete">XAPK File Reading Complete</string>
+</resources>

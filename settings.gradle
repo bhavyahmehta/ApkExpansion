@@ -1,0 +1,2 @@
+include ':app', ':market_licensing', ':zip_file', ':downloader_library'
+
